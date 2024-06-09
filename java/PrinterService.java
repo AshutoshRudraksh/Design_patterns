@@ -1,3 +1,5 @@
+package java;
+
 class PrinterService {
 
     private static volatile PrinterService uniqueInstance = null;
