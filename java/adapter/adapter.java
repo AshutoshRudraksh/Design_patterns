@@ -1,4 +1,4 @@
-package java;
+package java.adapter;
 
 public class adapter {
     class SquareHole {
